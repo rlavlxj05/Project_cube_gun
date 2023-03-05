@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 879b9790603f44745b7403da1cbd0722
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.002
+    100004: Bone.003
+    100006: Bone.004
+    100008: Bone.004_end
+    100010: Bone.005_L
+    100012: Bone.005_L.001
+    100014: Bone.005_L.001_end
+    100016: Bone.005_R
+    100018: Bone.005_R.001
+    100020: Bone.005_R.001_end
+    100022: Bone_L
+    100024: Bone_L.001
+    100026: Bone_L.001_end
+    100028: Bone_R
+    100030: Bone_R.001
+    100032: Bone_R.001_end
+    100034: Camera
+    100036: head.001
+    100038: head_1
+    100040: head_2
+    100042: head_3
+    100044: head_4
+    100046: head_5
+    100048: //RootNode
+    100050: "\uC544\uB9C8\uD29C\uC5B4"
+    400000: Bone
+    400002: Bone.002
+    400004: Bone.003
+    400006: Bone.004
+    400008: Bone.004_end
+    400010: Bone.005_L
+    400012: Bone.005_L.001
+    400014: Bone.005_L.001_end
+    400016: Bone.005_R
+    400018: Bone.005_R.001
+    400020: Bone.005_R.001_end
+    400022: Bone_L
+    400024: Bone_L.001
+    400026: Bone_L.001_end
+    400028: Bone_R
+    400030: Bone_R.001
+    400032: Bone_R.001_end
+    400034: Camera
+    400036: head.001
+    400038: head_1
+    400040: head_2
+    400042: head_3
+    400044: head_4
+    400046: head_5
+    400048: //RootNode
+    400050: "\uC544\uB9C8\uD29C\uC5B4"
+    2000000: Camera
+    2100000: Boss_material
+    2300000: head.001
+    2300002: head_1
+    2300004: head_2
+    2300006: head_3
+    2300008: head_4
+    2300010: head_5
+    3300000: head.001
+    3300002: head_1
+    3300004: head_2
+    3300006: head_3
+    3300008: head_4
+    3300010: head_5
+    4300000: head_5
+    4300002: head.001
+    4300004: head_1
+    4300006: head_2
+    4300008: head_4
+    4300010: head_3
+    7400000: Idie
+    7400002: Bigshot
+    7400004: Shot
+    7400006: Taunt
+    7400008: "\uC544\uB9C8\uD29C\uC5B4|Bigshot"
+    7400010: "\uC544\uB9C8\uD29C\uC5B4|Idie"
+    7400012: "\uC544\uB9C8\uD29C\uC5B4|Shot"
+    7400014: "\uC544\uB9C8\uD29C\uC5B4|Taunt"
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idie
+      takeName: Idie
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bigshot
+      takeName: Bigshot
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shot
+      takeName: Shot
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Taunt
+      takeName: Taunt
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
