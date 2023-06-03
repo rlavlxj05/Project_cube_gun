@@ -12,19 +12,19 @@
 
 블로그 : https://blog.naver.com/rlavlxj05/223034971692
 
-[몬스터]
+##### [몬스터]
 
 https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Enemy.cs
 
 스위치문을 활용하여 각 몬스터마다 타입을 지정해 수정 및 관리하기 편하게 코드를 작성했습니다.
 
-[보스]
+##### [보스]
 
 https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Boss.cs
 
 스위치문을 활용하여 보스의 스킬들을 랜덤으로 실행되게 작성했습니다.
 
-[게임매니저]
+##### [게임매니저]
 
 https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Gamemanager.cs
 
@@ -32,14 +32,15 @@ https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Gameman
 
 또한 UI 및 시간을 관리하도록 구성했습니다.
 
-[무기]
+##### [무기]
 
 https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Weapon.cs
 
 오브젝트를 활성화/비활성화로 교체할 수 있도록 했으며 활성화되있는 무기 태그에 따라 애니메이션이 다르게 작동되도록 했습니다.
 
-https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/player.cs
 
-[플레이어]
+##### [플레이어]
+
+https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/player.cs
 
 이동과 애니메이션이 잘 작동할 수 있도록 구현을 했습니다.
