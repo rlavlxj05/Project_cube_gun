@@ -12,6 +12,8 @@
 
 블로그 : https://blog.naver.com/rlavlxj05/223034971692
 
+영상 : https://youtu.be/WqDmZhVfKJM
+
 ##### [몬스터]
 
 https://github.com/rlavlxj05/Project_cube_gun/blob/master/Assets/2script/Enemy.cs
