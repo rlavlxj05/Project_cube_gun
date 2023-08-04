@@ -98,37 +98,6 @@ public class player : MonoBehaviour
         sDowm3 = Input.GetButtonDown("Swap3");
     }
     
-   /* public void ButtonDown(string type)
-    {
-        switch (type)
-        {
-            case "R":
-
-                break;
-
-            case "A":
-
-                break;
-
-            case "J":
-
-                break;
-            case "1":
-
-                break;
-
-            case "2":
-
-                break;
-
-            case "3":
-
-                break;
-
-        }
-
-    }*/
-    
    public void Move()
     {
        // moveVec = inputDirection.normalized;
