@@ -94,26 +94,4 @@ public class Boss : Enemy
         isLook = true;
         StartCoroutine(Think());
     }
-
-   /* IEnumerator Taunt()
-    {
-        tauntVec = target.position + lookVec;
-
-        isLook = false;
-        nav.isStopped = false;
-        boxCollider.enabled = false;
-        anim.SetTrigger("doTaunt");
-
-        yield return new WaitForSeconds(1.5f);
-        meleeArea.enabled = true;
-
-        yield return new WaitForSeconds(0.5f);
-        meleeArea.enabled = false;
-
-        yield return new WaitForSeconds(1f);
-        isLook = true;
-        nav.isStopped = true;
-        boxCollider.enabled = true;
-        StartCoroutine(Think());
-    }*/
 }
