@@ -48,13 +48,11 @@ public class Weapon : MonoBehaviour
 
     IEnumerator Shot()
     {
-        //총알발사
         GameObject intantBullet = Instantiate(bullet, bulletpos.position, bulletpos.rotation);
         Rigidbody bulletRigid = intantBullet.GetComponent<Rigidbody>();
         bulletRigid.velocity = bulletpos.forward * 50;
 
         yield return null;
-        //탄피배출
         GameObject intantCase = Instantiate(bulletCase, bulletCasePos.position, bulletCasePos.rotation);
         Rigidbody caseRigih = intantCase.GetComponent<Rigidbody>();
         Vector3 caseVec = bulletCasePos.forward * Random.Range(-3, -2) + Vector3.up * Random.Range(2, 3);
